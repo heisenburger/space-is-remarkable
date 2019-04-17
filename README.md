@@ -4,9 +4,9 @@ A lil' script that replaces the sleep screen on a reMarkable tablet to a photo f
 
 ## Get started
 
-Make sure you have `imagemagick` installed.
-
 `brew install imagemagick` or `sudo port install ImageMagick`
+
+`brew install jq` for json querying
 
 ## TODO
 
